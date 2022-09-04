@@ -45,8 +45,9 @@ body{
 
 h1{
     font-family: 'Amatic SC', cursive;
-    font-weight: lighter;
-    font-size: small;
+    font-weight: bolder;
+
+    /* font-size: 30px; */
 }
 
 h2{
